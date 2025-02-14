@@ -18,10 +18,8 @@
 
 ###
 
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react native logo" /> </div>
-###
+[![My Skills](https://skillicons.dev/icons?i=ts,go,java,py,react,nodejs,spring,nextjs,docker,kafka,aws,js,flutter,rust,kubernetes,postgres,mongodb&theme=dark&perline=6)](https://skillicons.dev)
 
-<div align="left"> <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="golang logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo" />  <img width="12" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" /> </div>
 ###
 
 <h2 align="left">Contact</h2>
